@@ -1,5 +1,4 @@
 {
-  "homepage": "https://KushagraSharma10.github.io/OCHI",
   "name": "ochi",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
