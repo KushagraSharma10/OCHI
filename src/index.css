@@ -9,11 +9,11 @@
 
 @font-face {
   font-family: "Founder Gortesk";
-  src: url("/public/Fonts/FoundersGrotesk-Semibold.woff") format("woff"),
-       url("/public/Fonts/FoundersGrotesk-Semibold.woff2") format("woff2");
+  src: url("/Fonts/FoundersGrotesk-Regular.woff") format("woff"),
+       url("/Fonts/FoundersGrotesk-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/public/Fonts/NeueMontreal-Regular.woff") format("woff"),
-       url("/public/Fonts/NeueMontreal-Regular.woff2") format("woff2");
+  src: url("/Fonts/NeueMontreal-Regular.woff") format("woff"),
+       url("/Fonts/NeueMontreal-Regular.woff2") format("woff2");
 }
