@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className='w-full flex gap-5 h-screen bg-zinc-900 text-white p-20 font-["Founders_Grotesk"]'>
+    <div className='w-full flex gap-5 h-screen bg-zinc-900 text-white p-20 font-["Founders_Grotesk_Regular"]'>
       <div className="w-1/2 h-full  flex flex-col justify-between">
         <div className="heading">
           <h1 className="text-[7vw] uppercase leading-none tracking-tighter -mb-7">

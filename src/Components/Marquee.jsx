@@ -8,7 +8,7 @@ const Marquee = () => {
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
           transition={{ ease: "linear", repeat: Infinity, duration: 10 }}
-          className="text-[22vw] leading-none font-semibold tracking-tighter font-['Founders_Grotesk'] -mb-[6vw] pt-10 uppercase pr-20"
+          className="text-[22vw] leading-none font-semibold tracking-tighter font-['Founders_Grotesk_Regular'] -mb-[6vw] pt-10 uppercase pr-20"
         >
           We are Ochi
         </motion.h1>
@@ -16,7 +16,7 @@ const Marquee = () => {
           initial={{ x: 0 }}
           animate={{ x: "-100%" }}
           transition={{ ease: "linear", repeat: Infinity, duration: 10 }}
-          className="text-[22vw] leading-none font-semibold tracking-tighter font-['Founders_Grotesk'] -mb-[6vw] pt-10 uppercase pr-20 "
+          className="text-[22vw] leading-none font-semibold tracking-tighter font-['Founders_Grotesk_Regular'] -mb-[6vw] pt-10 uppercase pr-20 "
         >
           We are Ochi
         </motion.h1>
