@@ -2,13 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-  /* font-family: ''; */
-  box-sizing: border-box;
-}
+
 
 @font-face {
-  font-family: "Founder Gortesk";
+  font-family: "Founders Gortesk";
   src: url("/Fonts/FoundersGrotesk-Regular.woff") format("woff"),
        url("/Fonts/FoundersGrotesk-Regular.woff2") format("woff2");
 }
