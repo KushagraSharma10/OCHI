@@ -5,12 +5,12 @@
 
 
 @font-face {
-  font-family: "Founders Gortesk";
+  font-family: "Founders_Gortesk";
   src: url("/Fonts/FoundersGrotesk-Regular.woff") format("woff"),
        url("/Fonts/FoundersGrotesk-Regular.woff2") format("woff2");
 }
 @font-face {
-  font-family: "Neue Montreal";
+  font-family: "Neue_Montreal";
   src: url("/Fonts/NeueMontreal-Regular.woff") format("woff"),
        url("/Fonts/NeueMontreal-Regular.woff2") format("woff2");
 }
